@@ -1,6 +1,6 @@
 # 경기천년바탕체(GyeonggiBatang)
 
-<a href="https://wess.tistory.com/249" target="_blank">
+<a href="https://wess.tistory.com/265" target="_blank">
     <img src="https://webfontworld.github.io/gyeonggi/GyeonggiBatang.jpg" alt="GyeonggiBatang" style="width:300px">
 </a>
 
@@ -32,7 +32,7 @@
 
 # 경기천년제목체(GyeonggiTitle)
 
-<a href="https://wess.tistory.com/249" target="_blank">
+<a href="https://wess.tistory.com/266" target="_blank">
     <img src="https://webfontworld.github.io/gyeonggi/GyeonggiTitle.jpg" alt="GyeonggiTitle" style="width:300px">
 </a>
 
@@ -72,22 +72,22 @@
 }
 </pre>
 
-# 경기천년제목체 - 세로형(GyeonggiTitleBoldVertical)
+# 경기천년제목체 - 세로형(GyeonggiTitleVertical)
 
-<a href="https://wess.tistory.com/249" target="_blank">
-    <img src="https://webfontworld.github.io/gyeonggi/GyeonggiTitleBoldVertical.jpg" alt="GyeonggiTitleBoldVertical" style="width:300px">
+<a href="https://wess.tistory.com/267" target="_blank">
+    <img src="https://webfontworld.github.io/gyeonggi/GyeonggiTitleVertical.jpg" alt="GyeonggiTitleVertical" style="width:300px">
 </a>
 
 <pre>
 @font-face {
-    font-family: 'GyeonggiTitleBoldVertical';
+    font-family: 'GyeonggiTitleVertical';
     font-weight: normal;
     font-style: normal;
-    src: url('https://cdn.jsdelivr.net/gh/webfontworld/gyeonggi/GyeonggiTitleBoldVertical.eot');
-    src: url('https://cdn.jsdelivr.net/gh/webfontworld/gyeonggi/GyeonggiTitleBoldVertical.eot?#iefix') format('embedded-opentype'),
-        url('https://cdn.jsdelivr.net/gh/webfontworld/gyeonggi/GyeonggiTitleBoldVertical.woff2') format('woff2'),
-        url('https://cdn.jsdelivr.net/gh/webfontworld/gyeonggi/GyeonggiTitleBoldVertical.woff') format('woff'),
-        url('https://cdn.jsdelivr.net/gh/webfontworld/gyeonggi/GyeonggiTitleBoldVertical.ttf') format("truetype");
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/gyeonggi/GyeonggiTitleVertical.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/gyeonggi/GyeonggiTitleVertical.eot?#iefix') format('embedded-opentype'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/gyeonggi/GyeonggiTitleVertical.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/gyeonggi/GyeonggiTitleVertical.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/gyeonggi/GyeonggiTitleVertical.ttf') format("truetype");
     font-display: swap;
 }
 </pre>
