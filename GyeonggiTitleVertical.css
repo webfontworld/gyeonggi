@@ -1,11 +1,11 @@
 @font-face {
-    font-family: 'GyeonggiTitleBoldVertical';
+    font-family: 'GyeonggiTitleVertical';
     font-weight: normal;
     font-style: normal;
-    src: url('https://cdn.jsdelivr.net/gh/webfontworld/gyeonggi/GyeonggiTitleBoldVertical.eot');
-    src: url('https://cdn.jsdelivr.net/gh/webfontworld/gyeonggi/GyeonggiTitleBoldVertical.eot?#iefix') format('embedded-opentype'),
-        url('https://cdn.jsdelivr.net/gh/webfontworld/gyeonggi/GyeonggiTitleBoldVertical.woff2') format('woff2'),
-        url('https://cdn.jsdelivr.net/gh/webfontworld/gyeonggi/GyeonggiTitleBoldVertical.woff') format('woff'),
-        url('https://cdn.jsdelivr.net/gh/webfontworld/gyeonggi/GyeonggiTitleBoldVertical.ttf') format("truetype");
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/gyeonggi/GyeonggiTitleVertical.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/gyeonggi/GyeonggiTitleVertical.eot?#iefix') format('embedded-opentype'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/gyeonggi/GyeonggiTitleVertical.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/gyeonggi/GyeonggiTitleVertical.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/gyeonggi/GyeonggiTitleVertical.ttf') format("truetype");
     font-display: swap;
 }
